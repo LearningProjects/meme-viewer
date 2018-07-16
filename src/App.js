@@ -4,11 +4,11 @@ import Header from './Components/header.js'
 import MemeShow from './Components/meme_show.js'
 
 class App extends Component {
-  render() {
+  render () {
     return (
       <div>
-        <Header/>
-        <MemeShow/>
+        <Header />
+        <MemeShow />
       </div>
     )
   }
